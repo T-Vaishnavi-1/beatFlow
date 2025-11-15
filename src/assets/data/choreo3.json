@@ -1,0 +1,654 @@
+[
+  {
+    "time": 0.334,
+    "move": "locking"
+  },
+  {
+    "time": 0.601,
+    "move": "kickstep"
+  },
+  {
+    "time": 0.865,
+    "move": "snake"
+  },
+  {
+    "time": 1.219,
+    "move": "runningman"
+  },
+  {
+    "time": 1.684,
+    "move": "runningman"
+  },
+  {
+    "time": 2.017,
+    "move": "snake"
+  },
+  {
+    "time": 2.551,
+    "move": "kickstep"
+  },
+  {
+    "time": 3.03,
+    "move": "kickstep"
+  },
+  {
+    "time": 3.352,
+    "move": "snake"
+  },
+  {
+    "time": 3.884,
+    "move": "kickstep"
+  },
+  {
+    "time": 4.352,
+    "move": "kickstep"
+  },
+  {
+    "time": 4.696,
+    "move": "kickstep"
+  },
+  {
+    "time": 5.219,
+    "move": "kickstep"
+  },
+  {
+    "time": 5.687,
+    "move": "kickstep"
+  },
+  {
+    "time": 6.017,
+    "move": "runningman"
+  },
+  {
+    "time": 6.702,
+    "move": "kickstep"
+  },
+  {
+    "time": 7.37,
+    "move": "kickstep"
+  },
+  {
+    "time": 7.918,
+    "move": "snake"
+  },
+  {
+    "time": 8.182,
+    "move": "wave"
+  },
+  {
+    "time": 8.696,
+    "move": "wave"
+  },
+  {
+    "time": 9.25,
+    "move": "snake"
+  },
+  {
+    "time": 9.517,
+    "move": "snake"
+  },
+  {
+    "time": 10.038,
+    "move": "locking"
+  },
+  {
+    "time": 10.551,
+    "move": "kickstep"
+  },
+  {
+    "time": 10.818,
+    "move": "kickstep"
+  },
+  {
+    "time": 11.384,
+    "move": "kickstep"
+  },
+  {
+    "time": 12.034,
+    "move": "locking"
+  },
+  {
+    "time": 12.716,
+    "move": "kickstep"
+  },
+  {
+    "time": 13.369,
+    "move": "locking"
+  },
+  {
+    "time": 14.039,
+    "move": "kickstep"
+  },
+  {
+    "time": 14.701,
+    "move": "locking"
+  },
+  {
+    "time": 15.383,
+    "move": "kickstep"
+  },
+  {
+    "time": 16.033,
+    "move": "kickstep"
+  },
+  {
+    "time": 16.715,
+    "move": "kickstep"
+  },
+  {
+    "time": 17.369,
+    "move": "kickstep"
+  },
+  {
+    "time": 18.037,
+    "move": "kickstep"
+  },
+  {
+    "time": 18.701,
+    "move": "kickstep"
+  },
+  {
+    "time": 19.383,
+    "move": "kickstep"
+  },
+  {
+    "time": 20.033,
+    "move": "locking"
+  },
+  {
+    "time": 20.718,
+    "move": "kickstep"
+  },
+  {
+    "time": 21.368,
+    "move": "locking"
+  },
+  {
+    "time": 22.061,
+    "move": "wave"
+  },
+  {
+    "time": 22.552,
+    "move": "locking"
+  },
+  {
+    "time": 23.051,
+    "move": "wave"
+  },
+  {
+    "time": 23.885,
+    "move": "wave"
+  },
+  {
+    "time": 24.152,
+    "move": "wave"
+  },
+  {
+    "time": 24.718,
+    "move": "wave"
+  },
+  {
+    "time": 25.387,
+    "move": "wave"
+  },
+  {
+    "time": 26.05,
+    "move": "snake"
+  },
+  {
+    "time": 26.561,
+    "move": "wave"
+  },
+  {
+    "time": 27.053,
+    "move": "wave"
+  },
+  {
+    "time": 27.382,
+    "move": "wave"
+  },
+  {
+    "time": 28.067,
+    "move": "wave"
+  },
+  {
+    "time": 29.417,
+    "move": "wave"
+  },
+  {
+    "time": 30.934,
+    "move": "wave"
+  },
+  {
+    "time": 32.352,
+    "move": "runningman"
+  },
+  {
+    "time": 32.619,
+    "move": "locking"
+  },
+  {
+    "time": 32.886,
+    "move": "wave"
+  },
+  {
+    "time": 33.385,
+    "move": "wave"
+  },
+  {
+    "time": 34.711,
+    "move": "wave"
+  },
+  {
+    "time": 36.717,
+    "move": "wave"
+  },
+  {
+    "time": 37.388,
+    "move": "kickstep"
+  },
+  {
+    "time": 38.72,
+    "move": "wave"
+  },
+  {
+    "time": 40.066,
+    "move": "wave"
+  },
+  {
+    "time": 45.401,
+    "move": "wave"
+  },
+  {
+    "time": 56.067,
+    "move": "wave"
+  },
+  {
+    "time": 59.403,
+    "move": "wave"
+  },
+  {
+    "time": 61.399,
+    "move": "wave"
+  },
+  {
+    "time": 64.717,
+    "move": "wave"
+  },
+  {
+    "time": 65.367,
+    "move": "locking"
+  },
+  {
+    "time": 66.049,
+    "move": "kickstep"
+  },
+  {
+    "time": 66.702,
+    "move": "kickstep"
+  },
+  {
+    "time": 67.384,
+    "move": "locking"
+  },
+  {
+    "time": 68.034,
+    "move": "locking"
+  },
+  {
+    "time": 68.703,
+    "move": "kickstep"
+  },
+  {
+    "time": 69.367,
+    "move": "kickstep"
+  },
+  {
+    "time": 70.04,
+    "move": "locking"
+  },
+  {
+    "time": 70.702,
+    "move": "locking"
+  },
+  {
+    "time": 71.384,
+    "move": "kickstep"
+  },
+  {
+    "time": 72.034,
+    "move": "kickstep"
+  },
+  {
+    "time": 72.716,
+    "move": "locking"
+  },
+  {
+    "time": 73.366,
+    "move": "locking"
+  },
+  {
+    "time": 74.051,
+    "move": "kickstep"
+  },
+  {
+    "time": 74.701,
+    "move": "locking"
+  },
+  {
+    "time": 75.384,
+    "move": "kickstep"
+  },
+  {
+    "time": 75.886,
+    "move": "locking"
+  },
+  {
+    "time": 76.153,
+    "move": "wave"
+  },
+  {
+    "time": 77.218,
+    "move": "locking"
+  },
+  {
+    "time": 77.719,
+    "move": "wave"
+  },
+  {
+    "time": 78.039,
+    "move": "kickstep"
+  },
+  {
+    "time": 78.562,
+    "move": "wave"
+  },
+  {
+    "time": 79.894,
+    "move": "wave"
+  },
+  {
+    "time": 80.715,
+    "move": "wave"
+  },
+  {
+    "time": 81.4,
+    "move": "wave"
+  },
+  {
+    "time": 82.712,
+    "move": "locking"
+  },
+  {
+    "time": 84.248,
+    "move": "wave"
+  },
+  {
+    "time": 85.685,
+    "move": "runningman"
+  },
+  {
+    "time": 85.952,
+    "move": "locking"
+  },
+  {
+    "time": 86.22,
+    "move": "wave"
+  },
+  {
+    "time": 86.561,
+    "move": "wave"
+  },
+  {
+    "time": 130.049,
+    "move": "kickstep"
+  },
+  {
+    "time": 130.702,
+    "move": "locking"
+  },
+  {
+    "time": 131.384,
+    "move": "kickstep"
+  },
+  {
+    "time": 132.034,
+    "move": "locking"
+  },
+  {
+    "time": 132.717,
+    "move": "kickstep"
+  },
+  {
+    "time": 133.367,
+    "move": "kickstep"
+  },
+  {
+    "time": 133.72,
+    "move": "wave"
+  },
+  {
+    "time": 134.028,
+    "move": "wave"
+  },
+  {
+    "time": 134.702,
+    "move": "locking"
+  },
+  {
+    "time": 135.384,
+    "move": "locking"
+  },
+  {
+    "time": 136.034,
+    "move": "kickstep"
+  },
+  {
+    "time": 136.706,
+    "move": "kickstep"
+  },
+  {
+    "time": 137.366,
+    "move": "kickstep"
+  },
+  {
+    "time": 138.028,
+    "move": "wave"
+  },
+  {
+    "time": 138.572,
+    "move": "snake"
+  },
+  {
+    "time": 139.384,
+    "move": "kickstep"
+  },
+  {
+    "time": 140.034,
+    "move": "locking"
+  },
+  {
+    "time": 140.716,
+    "move": "kickstep"
+  },
+  {
+    "time": 141.378,
+    "move": "kickstep"
+  },
+  {
+    "time": 142.051,
+    "move": "kickstep"
+  },
+  {
+    "time": 142.713,
+    "move": "kickstep"
+  },
+  {
+    "time": 143.363,
+    "move": "wave"
+  },
+  {
+    "time": 143.894,
+    "move": "wave"
+  },
+  {
+    "time": 144.715,
+    "move": "kickstep"
+  },
+  {
+    "time": 145.369,
+    "move": "locking"
+  },
+  {
+    "time": 146.051,
+    "move": "kickstep"
+  },
+  {
+    "time": 146.701,
+    "move": "locking"
+  },
+  {
+    "time": 148.736,
+    "move": "runningman"
+  },
+  {
+    "time": 149.699,
+    "move": "wave"
+  },
+  {
+    "time": 150.037,
+    "move": "kickstep"
+  },
+  {
+    "time": 150.561,
+    "move": "wave"
+  },
+  {
+    "time": 152.067,
+    "move": "wave"
+  },
+  {
+    "time": 152.735,
+    "move": "wave"
+  },
+  {
+    "time": 166.049,
+    "move": "wave"
+  },
+  {
+    "time": 178.733,
+    "move": "wave"
+  },
+  {
+    "time": 182.05,
+    "move": "wave"
+  },
+  {
+    "time": 182.7,
+    "move": "kickstep"
+  },
+  {
+    "time": 183.362,
+    "move": "wave"
+  },
+  {
+    "time": 184.036,
+    "move": "kickstep"
+  },
+  {
+    "time": 184.694,
+    "move": "wave"
+  },
+  {
+    "time": 185.368,
+    "move": "kickstep"
+  },
+  {
+    "time": 186.03,
+    "move": "wave"
+  },
+  {
+    "time": 186.561,
+    "move": "snake"
+  },
+  {
+    "time": 187.371,
+    "move": "kickstep"
+  },
+  {
+    "time": 188.044,
+    "move": "kickstep"
+  },
+  {
+    "time": 188.694,
+    "move": "wave"
+  },
+  {
+    "time": 189.379,
+    "move": "kickstep"
+  },
+  {
+    "time": 190.029,
+    "move": "wave"
+  },
+  {
+    "time": 190.563,
+    "move": "wave"
+  },
+  {
+    "time": 191.385,
+    "move": "kickstep"
+  },
+  {
+    "time": 191.901,
+    "move": "kickstep"
+  },
+  {
+    "time": 192.717,
+    "move": "kickstep"
+  },
+  {
+    "time": 193.378,
+    "move": "kickstep"
+  },
+  {
+    "time": 194.049,
+    "move": "kickstep"
+  },
+  {
+    "time": 194.702,
+    "move": "kickstep"
+  },
+  {
+    "time": 195.359,
+    "move": "wave"
+  },
+  {
+    "time": 195.915,
+    "move": "wave"
+  },
+  {
+    "time": 196.703,
+    "move": "kickstep"
+  },
+  {
+    "time": 197.251,
+    "move": "wave"
+  },
+  {
+    "time": 201.729,
+    "move": "wave"
+  },
+  {
+    "time": 203.862,
+    "move": "snake"
+  },
+  {
+    "time": 204.664,
+    "move": "snake"
+  },
+  {
+    "time": 207.415,
+    "move": "snake"
+  }
+]
