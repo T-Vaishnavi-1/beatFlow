@@ -1,0 +1,1469 @@
+[
+  {
+    "time": 0.334,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": 0,
+    "spectralFlux": 0,
+    "spectralCentroid": 10092
+  },
+  {
+    "time": 0.601,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "mid",
+    "energyDelta": 0.0002,
+    "spectralFlux": 0.000001,
+    "spectralCentroid": 984.5
+  },
+  {
+    "time": 0.865,
+    "type": "weak",
+    "intensity": 0.785,
+    "frequencyBand": "mid",
+    "energyDelta": -0.0114,
+    "spectralFlux": 0,
+    "spectralCentroid": 413.9
+  },
+  {
+    "time": 1.219,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "mid",
+    "energyDelta": 0.1161,
+    "spectralFlux": 0.00001,
+    "spectralCentroid": 565.2
+  },
+  {
+    "time": 1.684,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "mid",
+    "energyDelta": 0.0825,
+    "spectralFlux": 0.000003,
+    "spectralCentroid": 582.8
+  },
+  {
+    "time": 2.017,
+    "type": "weak",
+    "intensity": 0.803,
+    "frequencyBand": "mid",
+    "energyDelta": 0.0672,
+    "spectralFlux": 0,
+    "spectralCentroid": 488.6
+  },
+  {
+    "time": 2.551,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "mid",
+    "energyDelta": 0.1281,
+    "spectralFlux": 0.000008,
+    "spectralCentroid": 588
+  },
+  {
+    "time": 3.03,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "mid",
+    "energyDelta": 0.1555,
+    "spectralFlux": 0.000054,
+    "spectralCentroid": 577.1
+  },
+  {
+    "time": 3.352,
+    "type": "weak",
+    "intensity": 0.785,
+    "frequencyBand": "mid",
+    "energyDelta": 0.0654,
+    "spectralFlux": 0.000001,
+    "spectralCentroid": 502.1
+  },
+  {
+    "time": 3.884,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "mid",
+    "energyDelta": 0.1614,
+    "spectralFlux": 0.000011,
+    "spectralCentroid": 653.5
+  },
+  {
+    "time": 4.352,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "mid",
+    "energyDelta": 0.1232,
+    "spectralFlux": 0.000004,
+    "spectralCentroid": 618.9
+  },
+  {
+    "time": 4.696,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "mid",
+    "energyDelta": 0.2009,
+    "spectralFlux": 0.000057,
+    "spectralCentroid": 625.1
+  },
+  {
+    "time": 5.219,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "mid",
+    "energyDelta": 0.1869,
+    "spectralFlux": 0.000023,
+    "spectralCentroid": 763.9
+  },
+  {
+    "time": 5.687,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "mid",
+    "energyDelta": 0.1827,
+    "spectralFlux": 0.000008,
+    "spectralCentroid": 770.3
+  },
+  {
+    "time": 6.017,
+    "type": "strong",
+    "intensity": 0.998,
+    "frequencyBand": "mid",
+    "energyDelta": 0.1055,
+    "spectralFlux": 0.000007,
+    "spectralCentroid": 1055.9
+  },
+  {
+    "time": 6.702,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "mid",
+    "energyDelta": 0.2536,
+    "spectralFlux": 0.000191,
+    "spectralCentroid": 1796.6
+  },
+  {
+    "time": 7.37,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "mid",
+    "energyDelta": 0.2457,
+    "spectralFlux": 0.000227,
+    "spectralCentroid": 1849.6
+  },
+  {
+    "time": 7.918,
+    "type": "weak",
+    "intensity": 0.819,
+    "frequencyBand": "mid",
+    "energyDelta": 0.0322,
+    "spectralFlux": 0.000034,
+    "spectralCentroid": 1050.4
+  },
+  {
+    "time": 8.182,
+    "type": "weak",
+    "intensity": 0.778,
+    "frequencyBand": "mid",
+    "energyDelta": -0.0233,
+    "spectralFlux": 0.000005,
+    "spectralCentroid": 640.9
+  },
+  {
+    "time": 8.696,
+    "type": "weak",
+    "intensity": 0.762,
+    "frequencyBand": "high",
+    "energyDelta": 0.111,
+    "spectralFlux": 0.000131,
+    "spectralCentroid": 2108
+  },
+  {
+    "time": 9.25,
+    "type": "weak",
+    "intensity": 0.805,
+    "frequencyBand": "mid",
+    "energyDelta": 0.0268,
+    "spectralFlux": 0.000029,
+    "spectralCentroid": 1205.6
+  },
+  {
+    "time": 9.517,
+    "type": "weak",
+    "intensity": 0.784,
+    "frequencyBand": "mid",
+    "energyDelta": -0.0229,
+    "spectralFlux": 0.000006,
+    "spectralCentroid": 656.6
+  },
+  {
+    "time": 10.038,
+    "type": "strong",
+    "intensity": 0.971,
+    "frequencyBand": "high",
+    "energyDelta": 0.0969,
+    "spectralFlux": 0.000207,
+    "spectralCentroid": 2038.5
+  },
+  {
+    "time": 10.551,
+    "type": "weak",
+    "intensity": 0.794,
+    "frequencyBand": "mid",
+    "energyDelta": 0.1683,
+    "spectralFlux": 0.000033,
+    "spectralCentroid": 1184
+  },
+  {
+    "time": 10.818,
+    "type": "strong",
+    "intensity": 0.922,
+    "frequencyBand": "mid",
+    "energyDelta": 0.0161,
+    "spectralFlux": 0.000011,
+    "spectralCentroid": 839.6
+  },
+  {
+    "time": 11.384,
+    "type": "strong",
+    "intensity": 0.952,
+    "frequencyBand": "high",
+    "energyDelta": 0.1213,
+    "spectralFlux": 0.000091,
+    "spectralCentroid": 2432.7
+  },
+  {
+    "time": 12.034,
+    "type": "weak",
+    "intensity": 0.896,
+    "frequencyBand": "high",
+    "energyDelta": 0.2123,
+    "spectralFlux": 0.00016,
+    "spectralCentroid": 2864.6
+  },
+  {
+    "time": 12.716,
+    "type": "strong",
+    "intensity": 0.996,
+    "frequencyBand": "high",
+    "energyDelta": 0.1413,
+    "spectralFlux": 0.000114,
+    "spectralCentroid": 2229.2
+  },
+  {
+    "time": 13.369,
+    "type": "weak",
+    "intensity": 0.861,
+    "frequencyBand": "high",
+    "energyDelta": 0.2517,
+    "spectralFlux": 0.000167,
+    "spectralCentroid": 2654.6
+  },
+  {
+    "time": 14.039,
+    "type": "strong",
+    "intensity": 0.925,
+    "frequencyBand": "high",
+    "energyDelta": 0.1986,
+    "spectralFlux": 0.000214,
+    "spectralCentroid": 4550.3
+  },
+  {
+    "time": 14.701,
+    "type": "weak",
+    "intensity": 0.862,
+    "frequencyBand": "high",
+    "energyDelta": 0.1994,
+    "spectralFlux": 0.000165,
+    "spectralCentroid": 3412.8
+  },
+  {
+    "time": 15.383,
+    "type": "strong",
+    "intensity": 0.976,
+    "frequencyBand": "high",
+    "energyDelta": 0.1247,
+    "spectralFlux": 0.000103,
+    "spectralCentroid": 2911.7
+  },
+  {
+    "time": 16.033,
+    "type": "strong",
+    "intensity": 0.91,
+    "frequencyBand": "high",
+    "energyDelta": 0.2316,
+    "spectralFlux": 0.000167,
+    "spectralCentroid": 2824
+  },
+  {
+    "time": 16.715,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": 0.1508,
+    "spectralFlux": 0.000116,
+    "spectralCentroid": 3127.9
+  },
+  {
+    "time": 17.369,
+    "type": "strong",
+    "intensity": 0.908,
+    "frequencyBand": "high",
+    "energyDelta": 0.2155,
+    "spectralFlux": 0.000143,
+    "spectralCentroid": 3041.9
+  },
+  {
+    "time": 18.037,
+    "type": "strong",
+    "intensity": 0.921,
+    "frequencyBand": "high",
+    "energyDelta": 0.1901,
+    "spectralFlux": 0.000187,
+    "spectralCentroid": 2408.3
+  },
+  {
+    "time": 18.701,
+    "type": "strong",
+    "intensity": 0.915,
+    "frequencyBand": "high",
+    "energyDelta": 0.2481,
+    "spectralFlux": 0.000179,
+    "spectralCentroid": 2183.2
+  },
+  {
+    "time": 19.383,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": 0.1739,
+    "spectralFlux": 0.000114,
+    "spectralCentroid": 4931
+  },
+  {
+    "time": 20.033,
+    "type": "weak",
+    "intensity": 0.892,
+    "frequencyBand": "high",
+    "energyDelta": 0.1933,
+    "spectralFlux": 0.000153,
+    "spectralCentroid": 3203.4
+  },
+  {
+    "time": 20.718,
+    "type": "strong",
+    "intensity": 0.958,
+    "frequencyBand": "high",
+    "energyDelta": 0.1283,
+    "spectralFlux": 0.000107,
+    "spectralCentroid": 3070.3
+  },
+  {
+    "time": 21.368,
+    "type": "weak",
+    "intensity": 0.842,
+    "frequencyBand": "high",
+    "energyDelta": 0.1954,
+    "spectralFlux": 0.000149,
+    "spectralCentroid": 2738.2
+  },
+  {
+    "time": 22.061,
+    "type": "weak",
+    "intensity": 0.889,
+    "frequencyBand": "high",
+    "energyDelta": 0.0721,
+    "spectralFlux": 0.000056,
+    "spectralCentroid": 3042.9
+  },
+  {
+    "time": 22.552,
+    "type": "weak",
+    "intensity": 0.83,
+    "frequencyBand": "high",
+    "energyDelta": 0.1469,
+    "spectralFlux": 0.000226,
+    "spectralCentroid": 4436.4
+  },
+  {
+    "time": 23.051,
+    "type": "weak",
+    "intensity": 0.756,
+    "frequencyBand": "high",
+    "energyDelta": 0.0561,
+    "spectralFlux": 0.000067,
+    "spectralCentroid": 4287.8
+  },
+  {
+    "time": 23.885,
+    "type": "weak",
+    "intensity": 0.772,
+    "frequencyBand": "high",
+    "energyDelta": 0.1052,
+    "spectralFlux": 0.000142,
+    "spectralCentroid": 4746.5
+  },
+  {
+    "time": 24.152,
+    "type": "weak",
+    "intensity": 0.798,
+    "frequencyBand": "high",
+    "energyDelta": -0.003,
+    "spectralFlux": 0.000038,
+    "spectralCentroid": 3029.9
+  },
+  {
+    "time": 24.718,
+    "type": "weak",
+    "intensity": 0.818,
+    "frequencyBand": "high",
+    "energyDelta": 0.1204,
+    "spectralFlux": 0.000079,
+    "spectralCentroid": 2282.5
+  },
+  {
+    "time": 25.387,
+    "type": "weak",
+    "intensity": 0.818,
+    "frequencyBand": "high",
+    "energyDelta": 0.0664,
+    "spectralFlux": 0.000084,
+    "spectralCentroid": 2852.5
+  },
+  {
+    "time": 26.05,
+    "type": "weak",
+    "intensity": 0.849,
+    "frequencyBand": "mid",
+    "energyDelta": 0.1043,
+    "spectralFlux": 0.000073,
+    "spectralCentroid": 1970.3
+  },
+  {
+    "time": 26.561,
+    "type": "weak",
+    "intensity": 0.757,
+    "frequencyBand": "high",
+    "energyDelta": 0.0404,
+    "spectralFlux": 0.000157,
+    "spectralCentroid": 2526.6
+  },
+  {
+    "time": 27.053,
+    "type": "weak",
+    "intensity": 0.783,
+    "frequencyBand": "high",
+    "energyDelta": 0.0478,
+    "spectralFlux": 0.000112,
+    "spectralCentroid": 2297.4
+  },
+  {
+    "time": 27.382,
+    "type": "weak",
+    "intensity": 0.753,
+    "frequencyBand": "high",
+    "energyDelta": 0.1134,
+    "spectralFlux": 0.000061,
+    "spectralCentroid": 2685.2
+  },
+  {
+    "time": 28.067,
+    "type": "weak",
+    "intensity": 0.751,
+    "frequencyBand": "high",
+    "energyDelta": 0.0224,
+    "spectralFlux": 0.000131,
+    "spectralCentroid": 3105.7
+  },
+  {
+    "time": 29.417,
+    "type": "weak",
+    "intensity": 0.852,
+    "frequencyBand": "high",
+    "energyDelta": 0.0505,
+    "spectralFlux": 0.000083,
+    "spectralCentroid": 2953.5
+  },
+  {
+    "time": 30.934,
+    "type": "weak",
+    "intensity": 0.753,
+    "frequencyBand": "high",
+    "energyDelta": 0.0104,
+    "spectralFlux": 0.000056,
+    "spectralCentroid": 3234.3
+  },
+  {
+    "time": 32.352,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "mid",
+    "energyDelta": 0.1146,
+    "spectralFlux": 0.000003,
+    "spectralCentroid": 1976.2
+  },
+  {
+    "time": 32.619,
+    "type": "strong",
+    "intensity": 0.939,
+    "frequencyBand": "high",
+    "energyDelta": -0.0108,
+    "spectralFlux": 0.000047,
+    "spectralCentroid": 4030.9
+  },
+  {
+    "time": 32.886,
+    "type": "weak",
+    "intensity": 0.766,
+    "frequencyBand": "high",
+    "energyDelta": 0.0187,
+    "spectralFlux": 0.000054,
+    "spectralCentroid": 3189.1
+  },
+  {
+    "time": 33.385,
+    "type": "weak",
+    "intensity": 0.794,
+    "frequencyBand": "high",
+    "energyDelta": 0.0786,
+    "spectralFlux": 0.000092,
+    "spectralCentroid": 3594.7
+  },
+  {
+    "time": 34.711,
+    "type": "weak",
+    "intensity": 0.751,
+    "frequencyBand": "high",
+    "energyDelta": 0.0703,
+    "spectralFlux": 0.000125,
+    "spectralCentroid": 4208.5
+  },
+  {
+    "time": 36.717,
+    "type": "weak",
+    "intensity": 0.778,
+    "frequencyBand": "high",
+    "energyDelta": 0.0953,
+    "spectralFlux": 0.000115,
+    "spectralCentroid": 3618.2
+  },
+  {
+    "time": 37.388,
+    "type": "strong",
+    "intensity": 0.934,
+    "frequencyBand": "high",
+    "energyDelta": 0.2304,
+    "spectralFlux": 0.000085,
+    "spectralCentroid": 4545.3
+  },
+  {
+    "time": 38.72,
+    "type": "weak",
+    "intensity": 0.767,
+    "frequencyBand": "high",
+    "energyDelta": 0.063,
+    "spectralFlux": 0.000093,
+    "spectralCentroid": 3663
+  },
+  {
+    "time": 40.066,
+    "type": "weak",
+    "intensity": 0.765,
+    "frequencyBand": "high",
+    "energyDelta": 0.0251,
+    "spectralFlux": 0.000069,
+    "spectralCentroid": 4033.2
+  },
+  {
+    "time": 45.401,
+    "type": "weak",
+    "intensity": 0.75,
+    "frequencyBand": "high",
+    "energyDelta": 0.0257,
+    "spectralFlux": 0.000067,
+    "spectralCentroid": 3554.1
+  },
+  {
+    "time": 56.067,
+    "type": "weak",
+    "intensity": 0.767,
+    "frequencyBand": "high",
+    "energyDelta": 0.0265,
+    "spectralFlux": 0.00007,
+    "spectralCentroid": 3511.1
+  },
+  {
+    "time": 59.403,
+    "type": "weak",
+    "intensity": 0.753,
+    "frequencyBand": "high",
+    "energyDelta": 0.0403,
+    "spectralFlux": 0.00009,
+    "spectralCentroid": 4492
+  },
+  {
+    "time": 61.399,
+    "type": "weak",
+    "intensity": 0.764,
+    "frequencyBand": "high",
+    "energyDelta": 0.0327,
+    "spectralFlux": 0.000062,
+    "spectralCentroid": 3461.7
+  },
+  {
+    "time": 64.717,
+    "type": "weak",
+    "intensity": 0.793,
+    "frequencyBand": "high",
+    "energyDelta": 0.121,
+    "spectralFlux": 0.000065,
+    "spectralCentroid": 2745.2
+  },
+  {
+    "time": 65.367,
+    "type": "weak",
+    "intensity": 0.817,
+    "frequencyBand": "high",
+    "energyDelta": 0.2101,
+    "spectralFlux": 0.000166,
+    "spectralCentroid": 2581.8
+  },
+  {
+    "time": 66.049,
+    "type": "strong",
+    "intensity": 0.987,
+    "frequencyBand": "high",
+    "energyDelta": 0.1507,
+    "spectralFlux": 0.000115,
+    "spectralCentroid": 2571.2
+  },
+  {
+    "time": 66.702,
+    "type": "strong",
+    "intensity": 0.905,
+    "frequencyBand": "high",
+    "energyDelta": 0.265,
+    "spectralFlux": 0.000181,
+    "spectralCentroid": 2473
+  },
+  {
+    "time": 67.384,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": 0.1624,
+    "spectralFlux": 0.000123,
+    "spectralCentroid": 5972.9
+  },
+  {
+    "time": 68.034,
+    "type": "weak",
+    "intensity": 0.877,
+    "frequencyBand": "high",
+    "energyDelta": 0.2072,
+    "spectralFlux": 0.000155,
+    "spectralCentroid": 3432.7
+  },
+  {
+    "time": 68.703,
+    "type": "weak",
+    "intensity": 0.9,
+    "frequencyBand": "high",
+    "energyDelta": 0.1986,
+    "spectralFlux": 0.00021,
+    "spectralCentroid": 3123.2
+  },
+  {
+    "time": 69.367,
+    "type": "strong",
+    "intensity": 0.921,
+    "frequencyBand": "high",
+    "energyDelta": 0.229,
+    "spectralFlux": 0.000169,
+    "spectralCentroid": 2703.2
+  },
+  {
+    "time": 70.04,
+    "type": "weak",
+    "intensity": 0.865,
+    "frequencyBand": "high",
+    "energyDelta": 0.0922,
+    "spectralFlux": 0.000199,
+    "spectralCentroid": 2592.1
+  },
+  {
+    "time": 70.702,
+    "type": "weak",
+    "intensity": 0.886,
+    "frequencyBand": "high",
+    "energyDelta": 0.2223,
+    "spectralFlux": 0.000158,
+    "spectralCentroid": 3607
+  },
+  {
+    "time": 71.384,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": 0.1516,
+    "spectralFlux": 0.000112,
+    "spectralCentroid": 2529.2
+  },
+  {
+    "time": 72.034,
+    "type": "strong",
+    "intensity": 0.929,
+    "frequencyBand": "high",
+    "energyDelta": 0.2254,
+    "spectralFlux": 0.000191,
+    "spectralCentroid": 4859.6
+  },
+  {
+    "time": 72.716,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": 0.1635,
+    "spectralFlux": 0.000128,
+    "spectralCentroid": 5877.3
+  },
+  {
+    "time": 73.366,
+    "type": "strong",
+    "intensity": 0.907,
+    "frequencyBand": "high",
+    "energyDelta": 0.2014,
+    "spectralFlux": 0.000157,
+    "spectralCentroid": 3369.6
+  },
+  {
+    "time": 74.051,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": 0.1289,
+    "spectralFlux": 0.000105,
+    "spectralCentroid": 2695.1
+  },
+  {
+    "time": 74.701,
+    "type": "weak",
+    "intensity": 0.894,
+    "frequencyBand": "high",
+    "energyDelta": 0.1903,
+    "spectralFlux": 0.000166,
+    "spectralCentroid": 2856.6
+  },
+  {
+    "time": 75.384,
+    "type": "strong",
+    "intensity": 0.908,
+    "frequencyBand": "high",
+    "energyDelta": 0.1519,
+    "spectralFlux": 0.000103,
+    "spectralCentroid": 3327.1
+  },
+  {
+    "time": 75.886,
+    "type": "weak",
+    "intensity": 0.795,
+    "frequencyBand": "high",
+    "energyDelta": 0.1084,
+    "spectralFlux": 0.000216,
+    "spectralCentroid": 4004.3
+  },
+  {
+    "time": 76.153,
+    "type": "weak",
+    "intensity": 0.835,
+    "frequencyBand": "high",
+    "energyDelta": 0.0474,
+    "spectralFlux": 0.000018,
+    "spectralCentroid": 3095.9
+  },
+  {
+    "time": 77.218,
+    "type": "weak",
+    "intensity": 0.828,
+    "frequencyBand": "high",
+    "energyDelta": 0.0747,
+    "spectralFlux": 0.00016,
+    "spectralCentroid": 4373.3
+  },
+  {
+    "time": 77.719,
+    "type": "weak",
+    "intensity": 0.875,
+    "frequencyBand": "high",
+    "energyDelta": 0.0717,
+    "spectralFlux": 0.000105,
+    "spectralCentroid": 3734.5
+  },
+  {
+    "time": 78.039,
+    "type": "weak",
+    "intensity": 0.788,
+    "frequencyBand": "high",
+    "energyDelta": 0.1819,
+    "spectralFlux": 0.000193,
+    "spectralCentroid": 2400
+  },
+  {
+    "time": 78.562,
+    "type": "weak",
+    "intensity": 0.753,
+    "frequencyBand": "high",
+    "energyDelta": 0.009,
+    "spectralFlux": 0.000138,
+    "spectralCentroid": 2983.7
+  },
+  {
+    "time": 79.894,
+    "type": "weak",
+    "intensity": 0.806,
+    "frequencyBand": "high",
+    "energyDelta": 0.0347,
+    "spectralFlux": 0.00012,
+    "spectralCentroid": 2478.7
+  },
+  {
+    "time": 80.715,
+    "type": "weak",
+    "intensity": 0.776,
+    "frequencyBand": "high",
+    "energyDelta": 0.1386,
+    "spectralFlux": 0.000082,
+    "spectralCentroid": 2582.3
+  },
+  {
+    "time": 81.4,
+    "type": "weak",
+    "intensity": 0.762,
+    "frequencyBand": "high",
+    "energyDelta": 0.0102,
+    "spectralFlux": 0.000132,
+    "spectralCentroid": 3343.6
+  },
+  {
+    "time": 82.712,
+    "type": "weak",
+    "intensity": 0.857,
+    "frequencyBand": "high",
+    "energyDelta": 0.067,
+    "spectralFlux": 0.000168,
+    "spectralCentroid": 2838.2
+  },
+  {
+    "time": 84.248,
+    "type": "weak",
+    "intensity": 0.776,
+    "frequencyBand": "high",
+    "energyDelta": 0.0309,
+    "spectralFlux": 0.000075,
+    "spectralCentroid": 3089.3
+  },
+  {
+    "time": 85.685,
+    "type": "strong",
+    "intensity": 0.914,
+    "frequencyBand": "mid",
+    "energyDelta": 0.1016,
+    "spectralFlux": 0.000002,
+    "spectralCentroid": 1913.8
+  },
+  {
+    "time": 85.952,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": -0.0196,
+    "spectralFlux": 0.000047,
+    "spectralCentroid": 4064.4
+  },
+  {
+    "time": 86.22,
+    "type": "weak",
+    "intensity": 0.866,
+    "frequencyBand": "high",
+    "energyDelta": 0.0306,
+    "spectralFlux": 0.000056,
+    "spectralCentroid": 3315.8
+  },
+  {
+    "time": 86.561,
+    "type": "weak",
+    "intensity": 0.754,
+    "frequencyBand": "high",
+    "energyDelta": 0.0102,
+    "spectralFlux": 0.000207,
+    "spectralCentroid": 3697.2
+  },
+  {
+    "time": 130.049,
+    "type": "strong",
+    "intensity": 0.938,
+    "frequencyBand": "high",
+    "energyDelta": 0.1303,
+    "spectralFlux": 0.000109,
+    "spectralCentroid": 2471.2
+  },
+  {
+    "time": 130.702,
+    "type": "weak",
+    "intensity": 0.897,
+    "frequencyBand": "high",
+    "energyDelta": 0.2145,
+    "spectralFlux": 0.000168,
+    "spectralCentroid": 3061.4
+  },
+  {
+    "time": 131.384,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": 0.1535,
+    "spectralFlux": 0.000117,
+    "spectralCentroid": 2859.5
+  },
+  {
+    "time": 132.034,
+    "type": "weak",
+    "intensity": 0.871,
+    "frequencyBand": "high",
+    "energyDelta": 0.2086,
+    "spectralFlux": 0.00015,
+    "spectralCentroid": 2449.5
+  },
+  {
+    "time": 132.717,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": 0.1378,
+    "spectralFlux": 0.000109,
+    "spectralCentroid": 2143.1
+  },
+  {
+    "time": 133.367,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": 0.2586,
+    "spectralFlux": 0.000174,
+    "spectralCentroid": 2188.5
+  },
+  {
+    "time": 133.72,
+    "type": "weak",
+    "intensity": 0.762,
+    "frequencyBand": "high",
+    "energyDelta": 0.0154,
+    "spectralFlux": 0.000051,
+    "spectralCentroid": 2526.9
+  },
+  {
+    "time": 134.028,
+    "type": "weak",
+    "intensity": 0.756,
+    "frequencyBand": "high",
+    "energyDelta": 0.081,
+    "spectralFlux": 0.000106,
+    "spectralCentroid": 3140.5
+  },
+  {
+    "time": 134.702,
+    "type": "weak",
+    "intensity": 0.894,
+    "frequencyBand": "high",
+    "energyDelta": 0.2208,
+    "spectralFlux": 0.000155,
+    "spectralCentroid": 5387.6
+  },
+  {
+    "time": 135.384,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": 0.1563,
+    "spectralFlux": 0.000121,
+    "spectralCentroid": 4100.3
+  },
+  {
+    "time": 136.034,
+    "type": "strong",
+    "intensity": 0.941,
+    "frequencyBand": "high",
+    "energyDelta": 0.2406,
+    "spectralFlux": 0.000166,
+    "spectralCentroid": 2959.5
+  },
+  {
+    "time": 136.706,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": 0.1756,
+    "spectralFlux": 0.000185,
+    "spectralCentroid": 2239.4
+  },
+  {
+    "time": 137.366,
+    "type": "strong",
+    "intensity": 0.982,
+    "frequencyBand": "high",
+    "energyDelta": 0.22,
+    "spectralFlux": 0.000158,
+    "spectralCentroid": 2492.6
+  },
+  {
+    "time": 138.028,
+    "type": "weak",
+    "intensity": 0.768,
+    "frequencyBand": "high",
+    "energyDelta": 0.1345,
+    "spectralFlux": 0.000097,
+    "spectralCentroid": 2221
+  },
+  {
+    "time": 138.572,
+    "type": "weak",
+    "intensity": 0.844,
+    "frequencyBand": "mid",
+    "energyDelta": 0.0474,
+    "spectralFlux": 0.000087,
+    "spectralCentroid": 1766.5
+  },
+  {
+    "time": 139.384,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": 0.1477,
+    "spectralFlux": 0.000092,
+    "spectralCentroid": 2148.5
+  },
+  {
+    "time": 140.034,
+    "type": "weak",
+    "intensity": 0.866,
+    "frequencyBand": "high",
+    "energyDelta": 0.1558,
+    "spectralFlux": 0.000166,
+    "spectralCentroid": 2575.8
+  },
+  {
+    "time": 140.716,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": 0.129,
+    "spectralFlux": 0.000111,
+    "spectralCentroid": 2513.8
+  },
+  {
+    "time": 141.378,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": 0.1729,
+    "spectralFlux": 0.000137,
+    "spectralCentroid": 2839.5
+  },
+  {
+    "time": 142.051,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": 0.1467,
+    "spectralFlux": 0.000094,
+    "spectralCentroid": 2832.3
+  },
+  {
+    "time": 142.713,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "mid",
+    "energyDelta": 0.1849,
+    "spectralFlux": 0.000147,
+    "spectralCentroid": 1680.6
+  },
+  {
+    "time": 143.363,
+    "type": "weak",
+    "intensity": 0.785,
+    "frequencyBand": "high",
+    "energyDelta": 0.1084,
+    "spectralFlux": 0.000117,
+    "spectralCentroid": 2045.3
+  },
+  {
+    "time": 143.894,
+    "type": "weak",
+    "intensity": 0.768,
+    "frequencyBand": "mid",
+    "energyDelta": 0.0444,
+    "spectralFlux": 0.000063,
+    "spectralCentroid": 886.9
+  },
+  {
+    "time": 144.715,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": 0.1363,
+    "spectralFlux": 0.0001,
+    "spectralCentroid": 2483.7
+  },
+  {
+    "time": 145.369,
+    "type": "weak",
+    "intensity": 0.892,
+    "frequencyBand": "high",
+    "energyDelta": 0.2072,
+    "spectralFlux": 0.000157,
+    "spectralCentroid": 5604.9
+  },
+  {
+    "time": 146.051,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": 0.1474,
+    "spectralFlux": 0.000117,
+    "spectralCentroid": 3548.9
+  },
+  {
+    "time": 146.701,
+    "type": "strong",
+    "intensity": 0.964,
+    "frequencyBand": "high",
+    "energyDelta": 0.0973,
+    "spectralFlux": 0.00015,
+    "spectralCentroid": 3057.1
+  },
+  {
+    "time": 148.736,
+    "type": "strong",
+    "intensity": 0.937,
+    "frequencyBand": "high",
+    "energyDelta": 0.0876,
+    "spectralFlux": 0.000118,
+    "spectralCentroid": 2303.7
+  },
+  {
+    "time": 149.699,
+    "type": "weak",
+    "intensity": 0.871,
+    "frequencyBand": "high",
+    "energyDelta": 0.0636,
+    "spectralFlux": 0.00006,
+    "spectralCentroid": 3342.8
+  },
+  {
+    "time": 150.037,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": 0.1315,
+    "spectralFlux": 0.000248,
+    "spectralCentroid": 4039
+  },
+  {
+    "time": 150.561,
+    "type": "weak",
+    "intensity": 0.753,
+    "frequencyBand": "high",
+    "energyDelta": 0.0163,
+    "spectralFlux": 0.000202,
+    "spectralCentroid": 3733.5
+  },
+  {
+    "time": 152.067,
+    "type": "weak",
+    "intensity": 0.753,
+    "frequencyBand": "high",
+    "energyDelta": 0.0324,
+    "spectralFlux": 0.000087,
+    "spectralCentroid": 4202
+  },
+  {
+    "time": 152.735,
+    "type": "weak",
+    "intensity": 0.753,
+    "frequencyBand": "high",
+    "energyDelta": 0.0395,
+    "spectralFlux": 0.000108,
+    "spectralCentroid": 4250.4
+  },
+  {
+    "time": 166.049,
+    "type": "weak",
+    "intensity": 0.756,
+    "frequencyBand": "high",
+    "energyDelta": 0.0943,
+    "spectralFlux": 0.000111,
+    "spectralCentroid": 4101.5
+  },
+  {
+    "time": 178.733,
+    "type": "weak",
+    "intensity": 0.764,
+    "frequencyBand": "high",
+    "energyDelta": 0.0267,
+    "spectralFlux": 0.000067,
+    "spectralCentroid": 3627
+  },
+  {
+    "time": 182.05,
+    "type": "weak",
+    "intensity": 0.831,
+    "frequencyBand": "high",
+    "energyDelta": 0.1388,
+    "spectralFlux": 0.000079,
+    "spectralCentroid": 2675.5
+  },
+  {
+    "time": 182.7,
+    "type": "strong",
+    "intensity": 0.916,
+    "frequencyBand": "high",
+    "energyDelta": 0.2276,
+    "spectralFlux": 0.000171,
+    "spectralCentroid": 2461.1
+  },
+  {
+    "time": 183.362,
+    "type": "weak",
+    "intensity": 0.778,
+    "frequencyBand": "high",
+    "energyDelta": 0.1269,
+    "spectralFlux": 0.000099,
+    "spectralCentroid": 2593.6
+  },
+  {
+    "time": 184.036,
+    "type": "strong",
+    "intensity": 0.94,
+    "frequencyBand": "high",
+    "energyDelta": 0.2241,
+    "spectralFlux": 0.000181,
+    "spectralCentroid": 2501.1
+  },
+  {
+    "time": 184.694,
+    "type": "weak",
+    "intensity": 0.792,
+    "frequencyBand": "high",
+    "energyDelta": 0.1009,
+    "spectralFlux": 0.000109,
+    "spectralCentroid": 2511.2
+  },
+  {
+    "time": 185.368,
+    "type": "strong",
+    "intensity": 0.96,
+    "frequencyBand": "high",
+    "energyDelta": 0.1863,
+    "spectralFlux": 0.000179,
+    "spectralCentroid": 2448.1
+  },
+  {
+    "time": 186.03,
+    "type": "weak",
+    "intensity": 0.758,
+    "frequencyBand": "high",
+    "energyDelta": 0.1325,
+    "spectralFlux": 0.000105,
+    "spectralCentroid": 2322.8
+  },
+  {
+    "time": 186.561,
+    "type": "weak",
+    "intensity": 0.808,
+    "frequencyBand": "mid",
+    "energyDelta": 0.0356,
+    "spectralFlux": 0.000128,
+    "spectralCentroid": 1443.1
+  },
+  {
+    "time": 187.371,
+    "type": "weak",
+    "intensity": 0.878,
+    "frequencyBand": "mid",
+    "energyDelta": 0.1823,
+    "spectralFlux": 0.000233,
+    "spectralCentroid": 1910.4
+  },
+  {
+    "time": 188.044,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": 0.1979,
+    "spectralFlux": 0.000146,
+    "spectralCentroid": 2319.6
+  },
+  {
+    "time": 188.694,
+    "type": "weak",
+    "intensity": 0.782,
+    "frequencyBand": "high",
+    "energyDelta": 0.1407,
+    "spectralFlux": 0.000091,
+    "spectralCentroid": 2780.7
+  },
+  {
+    "time": 189.379,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": 0.1966,
+    "spectralFlux": 0.000159,
+    "spectralCentroid": 2341.5
+  },
+  {
+    "time": 190.029,
+    "type": "weak",
+    "intensity": 0.83,
+    "frequencyBand": "high",
+    "energyDelta": 0.1099,
+    "spectralFlux": 0.000119,
+    "spectralCentroid": 2667.8
+  },
+  {
+    "time": 190.563,
+    "type": "weak",
+    "intensity": 0.788,
+    "frequencyBand": "high",
+    "energyDelta": 0.0378,
+    "spectralFlux": 0.000112,
+    "spectralCentroid": 2059.6
+  },
+  {
+    "time": 191.385,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "mid",
+    "energyDelta": 0.1533,
+    "spectralFlux": 0.000115,
+    "spectralCentroid": 1820.4
+  },
+  {
+    "time": 191.901,
+    "type": "weak",
+    "intensity": 0.787,
+    "frequencyBand": "mid",
+    "energyDelta": 0.1659,
+    "spectralFlux": 0.000117,
+    "spectralCentroid": 1634.4
+  },
+  {
+    "time": 192.717,
+    "type": "strong",
+    "intensity": 0.981,
+    "frequencyBand": "mid",
+    "energyDelta": 0.1466,
+    "spectralFlux": 0.00011,
+    "spectralCentroid": 1812.6
+  },
+  {
+    "time": 193.378,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": 0.1986,
+    "spectralFlux": 0.000163,
+    "spectralCentroid": 2321.5
+  },
+  {
+    "time": 194.049,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "mid",
+    "energyDelta": 0.296,
+    "spectralFlux": 0.00014,
+    "spectralCentroid": 1927.2
+  },
+  {
+    "time": 194.702,
+    "type": "strong",
+    "intensity": 1,
+    "frequencyBand": "high",
+    "energyDelta": 0.2236,
+    "spectralFlux": 0.000168,
+    "spectralCentroid": 2558
+  },
+  {
+    "time": 195.359,
+    "type": "weak",
+    "intensity": 0.818,
+    "frequencyBand": "high",
+    "energyDelta": 0.1906,
+    "spectralFlux": 0.000107,
+    "spectralCentroid": 2457.1
+  },
+  {
+    "time": 195.915,
+    "type": "weak",
+    "intensity": 0.827,
+    "frequencyBand": "high",
+    "energyDelta": 0.0326,
+    "spectralFlux": 0.000034,
+    "spectralCentroid": 2043.4
+  },
+  {
+    "time": 196.703,
+    "type": "weak",
+    "intensity": 0.888,
+    "frequencyBand": "high",
+    "energyDelta": 0.2375,
+    "spectralFlux": 0.000201,
+    "spectralCentroid": 2107.7
+  },
+  {
+    "time": 197.251,
+    "type": "weak",
+    "intensity": 0.766,
+    "frequencyBand": "mid",
+    "energyDelta": 0.0157,
+    "spectralFlux": 0.000026,
+    "spectralCentroid": 1975.4
+  },
+  {
+    "time": 201.729,
+    "type": "weak",
+    "intensity": 0.793,
+    "frequencyBand": "high",
+    "energyDelta": 0.0113,
+    "spectralFlux": 0.000051,
+    "spectralCentroid": 2432.7
+  },
+  {
+    "time": 203.862,
+    "type": "weak",
+    "intensity": 0.888,
+    "frequencyBand": "mid",
+    "energyDelta": 0.0136,
+    "spectralFlux": 0.000011,
+    "spectralCentroid": 1060.2
+  },
+  {
+    "time": 204.664,
+    "type": "weak",
+    "intensity": 0.875,
+    "frequencyBand": "mid",
+    "energyDelta": 0.0072,
+    "spectralFlux": 0.000007,
+    "spectralCentroid": 1061.3
+  },
+  {
+    "time": 207.415,
+    "type": "weak",
+    "intensity": 0.794,
+    "frequencyBand": "mid",
+    "energyDelta": 0.0006,
+    "spectralFlux": 0,
+    "spectralCentroid": 965.7
+  }
+]
