@@ -3,8 +3,8 @@
 BeatFlow is a simple web-based application that allows users to *choose any song and view multiple dance styles* for that same song.
 
 ## Features
-- Upload/select a song
-- Select a dance style (Hip-Hop, Bharatanatyam, Freestyle, etc.)
+- Select a song
+- Select a dance style (Hip-Hop, Samba )
 - View steps/animations based on chosen style
 - Backend APIs for songs and dance-style selection
 - Frontend built using Vite + TypeScript + Tailwind
@@ -79,17 +79,17 @@ POST /selectStyle – Select a dance style
 Users cannot view *different dance styles for the same song*.  
 BeatFlow solves this by giving:
 - Multiple styles per song
-- Simple UI
-- Easy learning experience
+- Simple but professional UI
+- Users can learn more about cultural aspects by taking our quiz
+- They can create their own music using the music composer
 
 ## Future Enhancements
-- Add 2D animation for steps
 - Add login & user playlists
 - Add more styles
 
 ## Contributors
 - Meda Tharsha sri
-- vaishnavi
-- vaishnavi sree
-- nandini
-- varshini
+- T Vaishnavi
+- S Vaishnavi Sree
+- B Nandini
+- M Varshini
